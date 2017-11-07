@@ -11,7 +11,7 @@ By Spencer Hamilton (BugleJones), Scott Hagan (prescottie), Tuan Pham (TuanPham3
 ## Features
 
 1. Users can view the Main Page stream of events to find unique meal experiences
-2. Users have two varieites of search:
+2. Users have two varieties of search:
   - Main Page banner fuzzy search to manipulate results on the main page
   - Persistent NavBar fuzzy search to find events and users
 3. Users can register, login and logout
