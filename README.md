@@ -28,10 +28,10 @@ By Spencer Hamilton (BugleJones), Scott Hagan (prescottie), Tuan Pham (TuanPham3
 
 ## Captures
 
-![Commune Stream: Main Page]()
-![Commune Event Page with NavBar Search]()
-![Commune Sample Event Menu]()
-![Commune Review/Rating Form]()
+![Commune Stream: Main Page](https://github.com/BugleJones/Commune/blob/master/public/docs/Commune-Main-Page.png)
+![Commune Event Page with NavBar Search](https://github.com/BugleJones/Commune/blob/master/public/docs/Commune-EventPage-Search.png)
+![Commune Sample Event Menu](https://github.com/BugleJones/Commune/blob/master/public/docs/Commune-Sample-Menu.png)
+![Commune Review/Rating Form](https://github.com/BugleJones/Commune/blob/master/public/docs/Commune-Review-Form.png)
 
 ## Starting Up Commune
 
