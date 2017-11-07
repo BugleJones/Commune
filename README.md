@@ -28,16 +28,10 @@ By Spencer Hamilton (BugleJones), Scott Hagan (prescottie), Tuan Pham (TuanPham3
 
 ## Captures
 
-<<<<<<< HEAD
 ![Commune Stream: Main Page]()
 ![Commune Event Page with NavBar Search]()
 ![Commune Sample Event Menu]()
 ![Commune Review/Rating Form]()
-=======
-![Alt text](https://github.com/TuanPham303/Commune/blob/master/public/github-images/Screen%20Shot%202017-11-03%20at%2011.04.48%20AM.png?raw=true)
-![Alt text](https://github.com/TuanPham303/Commune/blob/master/public/github-images/Screen%20Shot%202017-11-03%20at%2011.06.33%20AM.png?raw=true)
-![Alt text](https://github.com/TuanPham303/Commune/blob/master/public/github-images/Screen%20Shot%202017-11-03%20at%2011.11.25%20AM.png?raw=true)
->>>>>>> 4254a12be278a2117ae19a77958e75999bf4f098
 
 ## Starting Up Commune
 
@@ -56,17 +50,11 @@ By Spencer Hamilton (BugleJones), Scott Hagan (prescottie), Tuan Pham (TuanPham3
   - Check the migrations folder to see what gets created in the DB
 12. Run the seed: `npm run knex seed:run`
   - Check the seeds file to see what gets seeded in the DB
-<<<<<<< HEAD
 13. Run the servers: `npm run dev:api` `npm run dev:server`
-
 
 ## Particulars
 
 - Most event images for Commune were taken from Unsplash, an open-source library of high quality images `https://unsplash.com/`
-=======
-13. Run the server: `npm run local`
-14. Visit `http://localhost:3000/`
->>>>>>> 4254a12be278a2117ae19a77958e75999bf4f098
 
 ## Dependencies
 
